@@ -3,7 +3,7 @@ layout: post
 title: 2015 Life in California
 date: 2015-06-05 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: 2015UCI/snap/arroyoDr.jpg # Add image post (optional)
+img: 2015UCI/snap/californiaRd.jpg # Add image post (optional)
 tags: [California, Snap, 2015-Summer]
 ---
 
@@ -17,6 +17,9 @@ I've been California in 2015 Summer.
 
 ## livingRoom
 ![livingRoom]({{site.baseurl}}/assets/img/2015UCI/snap/livingRoom.jpg)
+
+## Arroyo Dr
+![ArroyoDr]({{site.baseurl}}/assets/img/2015UCI/snap/arroyoDr.jpg)
 
 ## Party
 ![Party]({{site.baseurl}}/assets/img/2015UCI/snap/party.jpeg)
@@ -44,9 +47,13 @@ I've been California in 2015 Summer.
 ## Daily
 ![lego]({{site.baseurl}}/assets/img/2015UCI/snap/lego.jpeg)
 
+![yoga]({{site.baseurl}}/assets/img/2015UCI/snap/yoga.jpeg)
+
 ![boarding]({{site.baseurl}}/assets/img/2015UCI/snap/boarding.jpg)
 
 ## UCI
 ![study]({{site.baseurl}}/assets/img/2015UCI/snap/study.jpg)
 
 ![researchers]({{site.baseurl}}/assets/img/2015UCI/snap/researchers.jpg)
+
+> Pic by Yunho kim
