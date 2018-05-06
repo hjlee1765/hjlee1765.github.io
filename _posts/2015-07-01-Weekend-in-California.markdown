@@ -42,7 +42,7 @@ I've been California in 2015 Summer.
 
 ![Corona]({{site.baseurl}}/assets/img/2015UCI/weekend/mod/coronaDelMar3.jpg)
 
-![Corona]({{site.baseurl}}/assets/img/2015UCI/weekend/mod/coronaDelMar4.jpeg)
+![Corona]({{site.baseurl}}/assets/img/2015UCI/weekend/mod/coronaDelMar4.jpg)
 
 
 > Pic by Yunho kim
