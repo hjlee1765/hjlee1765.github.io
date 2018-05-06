@@ -3,7 +3,7 @@ layout: post
 title: 2015 Weekend in California
 date: 2015-07-01 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: 2015UCI/weekend/coronaDelMar.jpg # Add image post (optional)
+img: 2015UCI/weekend/coronaDelMar.JPG # Add image post (optional)
 tags: [California, Weekend, 2015-Summer]
 ---
 
@@ -44,11 +44,11 @@ I've been California in 2015 Summer.
 
 
 ## Corona Del Mar
-![Corona]({{site.baseurl}}/assets/img/2015UCI/weekend/coronaDelMar.jpg)
+![Corona]({{site.baseurl}}/assets/img/2015UCI/weekend/coronaDelMar.JPG)
 
-![Corona]({{site.baseurl}}/assets/img/2015UCI/weekend/coronaDelMar2.jpg)
+![Corona]({{site.baseurl}}/assets/img/2015UCI/weekend/coronaDelMar2.JPG)
 
-![Corona]({{site.baseurl}}/assets/img/2015UCI/weekend/coronaDelMar3.jpg)
+![Corona]({{site.baseurl}}/assets/img/2015UCI/weekend/coronaDelMar3.JPG)
 
 ![Corona]({{site.baseurl}}/assets/img/2015UCI/weekend/coronaDelMar4.jpeg)
 
